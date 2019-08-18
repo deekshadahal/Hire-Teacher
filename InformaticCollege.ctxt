@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InformaticCollege
+comment1.params=
+comment1.target=void\ mainFrame()
+comment2.params=
+comment2.target=void\ lecturer()
+comment3.params=
+comment3.target=void\ tutor()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ main()
+numComments=6

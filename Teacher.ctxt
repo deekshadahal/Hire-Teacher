@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Teacher
+comment1.params=subject\ interviewerName\ classesPerDay
+comment1.target=Teacher(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getSubject()
+comment3.params=
+comment3.target=java.lang.String\ getTeacherName()
+comment4.params=
+comment4.target=java.lang.String\ getInterviewerName()
+comment5.params=
+comment5.target=int\ getClassesPerDay()
+comment6.params=teacherName
+comment6.target=void\ setTeacherName(java.lang.String)
+comment7.params=
+comment7.target=void\ display()
+numComments=8
